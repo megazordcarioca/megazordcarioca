@@ -1,4 +1,4 @@
-### Yo, what's up! 👋
+### Yo, what's up!
 
 <!--
 **megazordcarioca/megazordcarioca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Josias, but you can call me Joe or...Megazord.
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fserial-experiments-lain-yasuo-iwakura-anime-gif-11578018&psig=AOvVaw1UPS0sKVU97vjsKDRhdZBF&ust=1652021241417000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiUgO3QzfcCFQAAAAAdAAAAABAp">
 
+![](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif)
+
+Friend of bits, bytes and volts
+
+📚  I'm studying Computer Science, B.A. at UERJ;
+
+💻  Automation Developer Student at IBM;
+
+🎮  Game programmer at Ink Bits, what is my little tiny game development studio with some friends;
+
+💬  If you wanna get a conversation, please, take a seat and contact me on my Social Networks:
+  ![Twitter](https://twitter.com/megazordcarioca) - ![LinkedIn](http://linkedin.com/in/megamd)
