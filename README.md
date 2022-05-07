@@ -18,7 +18,7 @@ I'm Josias, but you can call me Joe or...Megazord,
 
 ![](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif)
 
-<italic>Friend of bits, bytes and volts and welcome to my virtual lab!</italic>.
+<i>Friend of bits, bytes and volts. Welcome to my virtual lab!</i>.
 
 📚  I'm studying Computer Science, B.A. at UERJ;
 
