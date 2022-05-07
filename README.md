@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo, what's up! 👋
 
 <!--
 **megazordcarioca/megazordcarioca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Josias, but you can call me Joe or...Megazord.
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fserial-experiments-lain-yasuo-iwakura-anime-gif-11578018&psig=AOvVaw1UPS0sKVU97vjsKDRhdZBF&ust=1652021241417000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiUgO3QzfcCFQAAAAAdAAAAABAp">
+
