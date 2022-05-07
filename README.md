@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Josias, but you can call me Joe or...Megazord.
+I'm Josias, but you can call me Joe or...Megazord,
 
 ![](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif)
 
-Friend of bits, bytes and volts
+<italic>Friend of bits, bytes and volts and welcome to my virtual lab!</italic>.
 
 📚  I'm studying Computer Science, B.A. at UERJ;
 
 💻  Automation Developer Student at IBM;
 
-🎮  Game programmer at Ink Bits, what is my little tiny game development studio with some friends;
+🎮  Game programmer at Ink Bits, what is my little tiny game development studio and we developing: "Tricks on The Tracks";
 
-💬  If you wanna get a conversation, please, take a seat and contact me on my Social Networks:
-  ![Twitter](https://twitter.com/megazordcarioca) - ![LinkedIn](http://linkedin.com/in/megamd)
+🔭  and i "Recursvely" making researchs for myself and doing new intelligent logics, systems and algorithms;
+
+💬  If you wanna have a talk, please, take a seat and contact me on my Social Networks:
+  <a href = "http://linkedin.com/in/megamd"> LinkedIn </a> - <a href= "https://twitter.com/megazordcarioca"> Twitter </a>;
+  
+  See you soon!
