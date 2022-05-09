@@ -18,13 +18,13 @@ I'm Josias, but you can call me Joe or...Megazord,
 
 ![](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif)
 
-<i>Friend of bits, bytes and volts. Welcome to my virtual lab!</i>.
+<i><b>Friend of bits, volts and pixels. Welcome to my virtual lab!</i></b>.
 
 📚  I'm studying Computer Science, B.A. at UERJ;
 
 💻  Automation Developer Student at IBM;
 
-🎮  Game programmer at Ink Bits, what is my little tiny game development studio and we developing: "Tricks on The Tracks";
+🎮  Game programmer at Ink Bits, what also it's my little game development studio and we developing: "Tricks on The Tracks";
 
 🔭  and i "Recursvely" making researchs for myself and doing new intelligent logics, systems and algorithms;
 
