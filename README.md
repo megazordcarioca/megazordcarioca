@@ -22,7 +22,7 @@ I'm Josias, but you can call me Joe or...Megazord,
 
 📚  I'm studying Computer Science, B.A. at UERJ;
 
-💻  Automation Developer Student at IBM;
+💻  Application Developer at IBM;
 
 🎮  Game programmer at Ink Bits, what also it's my little game development studio and we developing: "Tricks on The Tracks";
 
