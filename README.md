@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm Josias, but you can call me Joe or...Megazord,
 
-![](https://github.com/megazordcarioca/megazordcarioca/blob/main/22d.jpg)
-
 <i><b>Friend of bits, volts and pixels. Welcome to my virtual lab!</i></b>.
 
 📚  I'm studying Computer Science, B.A. at UERJ;
@@ -26,7 +24,7 @@ I'm Josias, but you can call me Joe or...Megazord,
 
 🔭  and i "Recursvely" making researchs for myself and doing new intelligent logics, systems and algorithms;
 
-💬  If you wanna have a talk, please, take a seat and contact me on my Social Networks:
-  <a href = "http://linkedin.com/in/megamd"> LinkedIn </a> - <a href= "https://twitter.com/megazordcarioca"> Twitter </a>;
-  
-  See you soon!
+💬  If you wanna have a talk, please, take a seat and contact me on my Social Networks: <a href = "http://linkedin.com/in/megamd"> LinkedIn </a> - <a href= "https://twitter.com/megazordcarioca"> Twitter </a>;
+
+See you soon!
+  ![](https://github.com/megazordcarioca/megazordcarioca/blob/main/22d.jpg)
