@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Josias, but you can call me Joe or...Megazord,
 
-![](https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif)
+![](https://github.com/megazordcarioca/megazordcarioca/blob/main/22d.jpg)
 
 <i><b>Friend of bits, volts and pixels. Welcome to my virtual lab!</i></b>.
 
