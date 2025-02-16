@@ -20,6 +20,8 @@ I'm Josias, but you can call me Joe or...Megazord,
 
 📚  I'm studying Computer Science, B.A. at UERJ;
 
+💻  Also i'm a mid level backend developer at Bemobi;
+
 🎮  Game programmer at Ink Bits, what also it's my little game development studio and we developing: "Tricks on The Tracks";
 
 🔭  and i "Recursvely" making researchs for myself and doing new intelligent logics, systems and algorithms;
